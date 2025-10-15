@@ -1,4 +1,4 @@
-This is a comprehensive `README.md` file based on the contents of your `recognition (1).ipynb` Jupyter Notebook.
+
 
 The notebook appears to implement a complete **Speech and Emotion Recognition System**.
 
