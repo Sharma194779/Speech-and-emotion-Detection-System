@@ -1,9 +1,5 @@
 
 
-The notebook appears to implement a complete **Speech and Emotion Recognition System**.
-
------
-
 # Speech and Emotion Recognition System
 
 A comprehensive Python-based project implementing a full-stack speech processing pipeline, including acoustic feature extraction, noise filtering, speech-to-text conversion, and a trained model for emotional detection from audio. This project utilizes the **Toronto Emotional Speech Set (TESS)** dataset.
